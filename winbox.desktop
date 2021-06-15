@@ -1,0 +1,6 @@
+[Desktop Entry]
+Name=Winbox
+Comment=Mikrotik configuration software
+Exec=wine "C:\winbox\winbox.exe"
+Icon=winbox
+Type=Application
